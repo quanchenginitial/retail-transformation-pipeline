@@ -2,7 +2,7 @@
 
 A guided SQL and Python engineering project using historical retail records to build, test and maintain a daily sales and cancellation analysis table.
 
-**Status: planning package only.** No source workbook has been audited, transformation executed, business result validated, or scheduled workflow activated yet.
+**Status: stage 0 guided business-rule checkpoint completed on 2026-10-23.** See the [checkpoint record](docs/STAGE_00_CHECKPOINT.md). Source auditing, SQL/Python implementation and scheduled automation have not started. Independent invoice-count and table-grain checks remain part of the practical stages.
 
 ## Business purpose
 
